@@ -1,0 +1,27 @@
+.DS_Store
+
+# PDF:er - för stora för GitHub-synk, textversioner (.md/.txt) trackas istället
+*.pdf
+**/*.pdf
+
+# Råtext från extraktionen (mellansteg, inte kurerat innehåll)
+07_fulltext/_raw/
+
+# Claude plan-filer (lokala)
+.claude/plans/
+
+# Bilder - extraheras till .md, originalbilder gitignored
+**/*.heic
+**/*.jpg
+**/*.jpeg
+**/*.png
+
+# LaTeX build-filer
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Backup-filer från skript
+*.bak

@@ -1,0 +1,230 @@
+{
+  "_kommentar": "Kursens sektion (Adams 10:e uppl.) -> råfil (9:e uppl.), målfil och bokens sidintervall i 9:e uppl. Härlett ur PDF:ens löpande sidhuvuden, ej uppskattat. Bok->PDF-offset = +21.",
+  "sektioner": [
+    {
+      "kurs": "9.8",
+      "nionde": "9.8",
+      "fil": "kap_9/9.8.md",
+      "sidor": [
+        555,
+        560
+      ]
+    },
+    {
+      "kurs": "10.1",
+      "nionde": "10.1",
+      "fil": "kap_10/10.1.md",
+      "sidor": [
+        570,
+        574
+      ]
+    },
+    {
+      "kurs": "10.5",
+      "nionde": "10.5",
+      "fil": "kap_10/10.5.md",
+      "sidor": [
+        601,
+        602
+      ]
+    },
+    {
+      "kurs": "10.6",
+      "nionde": "10.6",
+      "fil": "kap_10/10.6.md",
+      "sidor": [
+        603,
+        608
+      ]
+    },
+    {
+      "kurs": "12.1",
+      "nionde": "11.1",
+      "fil": "kap_12/12.1.md",
+      "sidor": [
+        629,
+        636
+      ]
+    },
+    {
+      "kurs": "12.3",
+      "nionde": "11.3",
+      "fil": "kap_12/12.3.md",
+      "sidor": [
+        643,
+        650
+      ]
+    },
+    {
+      "kurs": "13.1",
+      "nionde": "12.1",
+      "fil": "kap_13/13.1.md",
+      "sidor": [
+        678,
+        686
+      ]
+    },
+    {
+      "kurs": "13.2",
+      "nionde": "12.2",
+      "fil": "kap_13/13.2.md",
+      "sidor": [
+        687,
+        690
+      ]
+    },
+    {
+      "kurs": "13.3",
+      "nionde": "12.3",
+      "fil": "kap_13/13.3.md",
+      "sidor": [
+        691,
+        696
+      ]
+    },
+    {
+      "kurs": "13.4",
+      "nionde": "12.4",
+      "fil": "kap_13/13.4.md",
+      "sidor": [
+        697,
+        702
+      ]
+    },
+    {
+      "kurs": "13.5",
+      "nionde": "12.5",
+      "fil": "kap_13/13.5.md",
+      "sidor": [
+        703,
+        712
+      ]
+    },
+    {
+      "kurs": "13.6",
+      "nionde": "12.6",
+      "fil": "kap_13/13.6.md",
+      "sidor": [
+        713,
+        724
+      ]
+    },
+    {
+      "kurs": "13.7",
+      "nionde": "12.7",
+      "fil": "kap_13/13.7.md",
+      "sidor": [
+        725,
+        734
+      ]
+    },
+    {
+      "kurs": "13.8",
+      "nionde": "12.8",
+      "fil": "kap_13/13.8.md",
+      "sidor": [
+        735,
+        744
+      ]
+    },
+    {
+      "kurs": "13.9",
+      "nionde": "12.9",
+      "fil": "kap_13/13.9.md",
+      "sidor": [
+        745,
+        751
+      ]
+    },
+    {
+      "kurs": "14.1",
+      "nionde": "13.1",
+      "fil": "kap_14/14.1.md",
+      "sidor": [
+        752,
+        760
+      ]
+    },
+    {
+      "kurs": "14.2",
+      "nionde": "13.2",
+      "fil": "kap_14/14.2.md",
+      "sidor": [
+        761,
+        766
+      ]
+    },
+    {
+      "kurs": "14.6",
+      "nionde": "13.6",
+      "fil": "kap_14/14.6.md",
+      "sidor": [
+        791,
+        798
+      ]
+    },
+    {
+      "kurs": "15.1",
+      "nionde": "14.1",
+      "fil": "kap_15/15.1.md",
+      "sidor": [
+        815,
+        820
+      ]
+    },
+    {
+      "kurs": "15.2",
+      "nionde": "14.2",
+      "fil": "kap_15/15.2.md",
+      "sidor": [
+        821,
+        828
+      ]
+    },
+    {
+      "kurs": "15.3",
+      "nionde": "14.3",
+      "fil": "kap_15/15.3.md",
+      "sidor": [
+        829,
+        832
+      ]
+    },
+    {
+      "kurs": "15.4",
+      "nionde": "14.4",
+      "fil": "kap_15/15.4.md",
+      "sidor": [
+        833,
+        842
+      ]
+    },
+    {
+      "kurs": "15.5",
+      "nionde": "14.5",
+      "fil": "kap_15/15.5.md",
+      "sidor": [
+        843,
+        848
+      ]
+    },
+    {
+      "kurs": "15.6",
+      "nionde": "14.6",
+      "fil": "kap_15/15.6.md",
+      "sidor": [
+        849,
+        856
+      ]
+    },
+    {
+      "kurs": "15.7",
+      "nionde": "14.7",
+      "fil": "kap_15/15.7.md",
+      "sidor": [
+        857,
+        866
+      ]
+    }
+  ]
+}
